@@ -1,0 +1,50 @@
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\bin\Debug\client.exe.config
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\bin\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\bin\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\obj\Debug\client.Form1.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\obj\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\client\client\obj\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\bin\Debug\client.exe.config
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\bin\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\bin\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\obj\Debug\client.Form1.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\obj\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\client\client\obj\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\bin\Debug\client.exe.config
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\bin\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\bin\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\obj\Debug\client.Form1.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\obj\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 1\mbaris_Bozkurt_MehmetBaris_Step1\client\client\obj\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\bin\Debug\client.exe.config
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\bin\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\bin\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.Form1.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\bin\Debug\client.exe.config
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\bin\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\bin\Debug\client.pdb
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.Form1.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.exe
+C:\Users\Admin\Desktop\CS408\Project - Rock-Paper-Scissors Game\Step 2\mbaris_Bozkurt_MehmetBaris_Step2\mbaris_Bozkurt_MehmetBaris_Step2\client\client\obj\Debug\client.pdb

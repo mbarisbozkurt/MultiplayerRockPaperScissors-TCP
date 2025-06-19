@@ -1,0 +1,10 @@
+Kursat,24
+Simge,8
+Yasin,3
+Cemal,2
+Albert,6
+Esra,1
+a,0
+b,0
+c,1
+d,1
